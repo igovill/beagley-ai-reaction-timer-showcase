@@ -1,5 +1,3 @@
-# beagley-ai-reaction-timer-showcase
-Hardware demo, wiring diagram, and development notes for an embedded Linux reaction timer.
 # Embedded Linux Reaction Timer
 
 This repository contains the project overview, hardware photos, wiring diagram, and testing notes. The source code is kept private due SFUs privacy policy. 
