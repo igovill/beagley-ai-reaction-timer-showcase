@@ -8,8 +8,8 @@ The player responds to a random LED cue: green means push UP, and red means push
 
 Getting it running involved connecting the hardware, setting up a Debian development environment, and building C code to run on the board.
 
-![Reaction timer wiring diagram](images/reaction_timer_wiring.svg)
-![BeagleY-AI reaction timer hardware](images/hardware.jpg)
+![Reaction timer wiring diagram](images_git/reaction_timer_wiring.svg)
+![BeagleY-AI reaction timer hardware](images_git/hardware.jpg)
 [Watch the reaction timer demo](LinuxReactionTimerDemo_GitHub.mp4)
 ### Hardware and Tools
 
