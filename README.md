@@ -1,6 +1,6 @@
 # Embedded Linux Reaction Timer
 
-This repository contains the project overview, hardware photos, wiring diagram, and testing notes. The source code is kept private due SFUs privacy policy. 
+The source code is private at my instructor’s request. This repository contains the project overview, wiring diagram, hardware photos, and demo video.
 
 For my first embedded Linux project, I put together a joystick reaction game on a BeagleY-AI running Debian Linux.
 
