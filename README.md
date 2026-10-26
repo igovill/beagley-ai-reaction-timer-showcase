@@ -10,6 +10,7 @@ Getting it running involved connecting the hardware, setting up a Debian develop
 
 ![Reaction timer wiring diagram](images/reaction_timer_wiring.svg)
 ![BeagleY-AI reaction timer hardware](images/hardware.jpg)
+[Watch the reaction timer demo](LinuxReactionTimerDemo_GitHub.mp4)
 ### Hardware and Tools
 
 - BeagleY-AI: Runs the application and controls the LEDs
