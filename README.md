@@ -15,7 +15,7 @@ Getting there meant connecting the hardware, setting up a Debian development env
 The source code is private at my instructor’s request. This repository contains the project overview, wiring diagram, hardware photos, and demo video.
 
 ![Reaction timer wiring diagram](reaction_timer_wiring.svg)
-![BeagleY-AI reaction timer hardware](hardware.jpg)
+![BeagleY-AI reaction timer hardware](hardware.png)
 [Watch the reaction timer demo](LinuxReactionTimerDemo_GitHub.mp4)
 
 ### Hardware and Tools
