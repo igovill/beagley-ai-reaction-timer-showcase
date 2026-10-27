@@ -1,4 +1,6 @@
 # Embedded Linux Reaction Timer
+### Technologies Used
+C · Embedded Linux · BeagleY-AI · SPI · MCP3208 · CMake · SSH · NFS
 
 The source code is private at my instructor’s request. This repository contains the project overview, wiring diagram, hardware photos, and demo video.
 
