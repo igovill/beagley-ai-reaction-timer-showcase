@@ -2,6 +2,7 @@
 ### Technologies Used
 C · Embedded Linux · BeagleY-AI · SPI · MCP3208 · CMake · SSH · NFS
 
+### Overview
 The source code is private at my instructor’s request. This repository contains the project overview, wiring diagram, hardware photos, and demo video.
 
 For my first embedded Linux project, I put together a joystick reaction game on a BeagleY-AI running Debian Linux.
